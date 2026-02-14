@@ -38,10 +38,10 @@ This tutorial aims at building intuition for how biological neural computation i
     <tr>
       <td>1. What is a neuron?</td>
       <td>What type of dynamical system is a neuron?</td>
-      <td>Membrane potential, excitability, spike as discrete event, input → integration → output</td>
+      <td>Basic morphology, membrane potential, spike as discrete event, input → integration → output</td>
       <td>Conceptual</td>
-      <td>Basic morphology; voltage trace under input current</td>
-      <td>Explain why spike amplitude is invariant to input strength</td>
+      <td>Patch clamp: voltage trace under input current</td>
+      <td>-</td>
       <td>Event-driven state transitions</td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ This tutorial aims at building intuition for how biological neural computation i
       <td>Leakage, integration, threshold, refractory period</td>
       <td>Leaky integrate-and-fire (LIF)</td>
       <td>Current injection; vary threshold and time constant</td>
-      <td>Produce exactly N spikes; analyze effect of removing leak</td>
+      <td>Analyze effect of removing leak</td>
       <td>Minimal spike-based computation</td>
     </tr>
     <tr>
@@ -107,7 +107,9 @@ This tutorial aims at building intuition for how biological neural computation i
   <summary>References</summary>
   <div>
     "Principles of Neural Science (5th ed.)" McGraw-Hill Education. Retrieved from https://www.mhprofessional.com/principles-of-neural-science-fifth-edition-9780071390118-usa
+   <br>
     "Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition" Cambridge University Press. Retrieved from https://neuronaldynamics.epfl.ch/online/index.html
   </div>
   </details>
 </h6>
+
