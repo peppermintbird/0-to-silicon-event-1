@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2> Event 1 — Neuroscience foundations for neuromorphic computation </h2>
-  <h6>The purpose of this material is to understand the minimal biological principles that make event-driven neural computation possible. And yes, the pulsing brain emoji also hurts my eyes.</h6>
+  <h6>The purpose of this material is to understand the minimal biological principles that make event-driven neural computation possible, focusing on dynamic systems. And yes, the pulsing brain emoji also hurts my eyes.</h6>
 </div>
 
 ### Overview
@@ -112,5 +112,6 @@ This tutorial aims at building intuition for how biological neural computation i
   </div>
   </details>
 </h6>
+
 
 
