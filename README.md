@@ -113,5 +113,10 @@ This tutorial aims at building intuition for how biological neural computation i
   </details>
 </h6>
 
+---
+# 🇲 1️⃣ What is a neuron?
 
+# 🇲 2️⃣ Excitable membranes
+
+# 🇲 3️⃣ Biophysical spike generation
 
