@@ -12,7 +12,7 @@
 ### Overview
 <h4>Description</h4
 <p>
-This tutorial aims at building intuition for how biological neural computation informs neuromorphic design. Move from mechanism to abstraction, always asking: what must be preserved, and what can be simplified?
+This tutorial aims at building intuition for how biological neural computation informs neuromorphic design. Move from mechanism to abstraction, always asking <b>what must be preserved, and what can be simplified?</b>
 </p>
 
 <h4>Target</h4>
