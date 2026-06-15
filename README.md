@@ -1,14 +1,8 @@
-﻿# 🔭 Neuroscience foundations for neuromorphic computation
+﻿# Neuroscience foundations for neuromorphic computation
 
 Build intuition for how biological neural dynamics inform neuromorphic design.
 
 ---
-
-### Audience
-
-Engineers, computer scientists, and researchers or anyone entering neuromorphic computing with:
-- Basic programming experience
-- Limited neuroscience exposure
 
 ## Modules
 
