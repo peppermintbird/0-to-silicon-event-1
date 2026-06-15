@@ -12,7 +12,7 @@
 ### Overview
 <h4>Description</h4
 <p>
-This tutorial aims at building intuition for how biological neural computation informs neuromorphic design. Move from mechanism to abstraction, always asking <b>what must be preserved, and what can be simplified?</b>
+This tutorial aims at building intuition for how biological dynamic systems inform neuromorphic design. Move from mechanism to abstraction, always asking <b>what must be preserved, and what can be simplified?</b>
 </p>
 
 <h4>Target</h4>
@@ -20,7 +20,17 @@ This tutorial aims at building intuition for how biological neural computation i
   Engineers, computer scientists, or researchers and students entering neuromorphic computing with basic programming background but limited neuroscience exposure.
 </p>
 
+🎛️﻿ 🇲 1️⃣ Patch-clamp | Patch-clamp guided exploration
+💻 🇲 2️⃣ LIF | Code a simple current-based LIF neuron
+🎛️ 🇲 3️⃣ HH | Model exploration and understand its hardware implementation contraints
+💻 🇲 4️⃣ Synaptic inputs & LIF with weights and delay | Connect two conductance-based LIF neurons, tune the connection
+🪛 🇲 5️⃣ Network | Build a small, stable E/I network
+🪛 🇲 7️⃣ Abstraction | Final boss wrap-up: design a reduced neuron that preserves what matters. Justify choices
 
+Legend (type of challenge):
+🎛️ - param exploration
+💻 - code
+🪛 - guided design (more code)
 
 <table>
   <thead>
