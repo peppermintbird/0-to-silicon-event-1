@@ -25,9 +25,13 @@ Build intuition for how biological neural dynamics inform neuromorphic design.
   <details>
   <summary>References</summary>
   <div>
-    "Principles of Neural Science (5th ed.)" McGraw-Hill Education. Retrieved from https://www.mhprofessional.com/principles-of-neural-science-fifth-edition-9780071390118-usa
-   <br>
-    "Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition" Cambridge University Press. Retrieved from https://neuronaldynamics.epfl.ch/online/index.html
+    Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., &amp; Hudspeth, A. J. (2013). <em>Principles of neural science</em> (5th ed.). McGraw-Hill Education. Retrieved from https://www.mhprofessional.com/principles-of-neural-science-fifth-edition-9780071390118-usa
+<br>
+Gerstner, W., Kistler, W. M., Naud, R., &amp; Paninski, L. (2014). <em>Neuronal dynamics: From single neurons to networks and models of cognition</em>. Cambridge University Press. Retrieved from https://neuronaldynamics.epfl.ch/online/index.html
+<br>
+Dayan, P., &amp; Abbott, L. F. (2001). <em>Theoretical neuroscience: Computational and mathematical modeling of neural systems</em>. MIT Press. Retrieved from https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf
+<br>
+Bear, M. F., Connors, B. W., &amp; Paradiso, M. A. (2007). <em>Neuroscience: Exploring the brain</em> (3rd ed.). Lippincott Williams &amp; Wilkins. Retrieved from https://seti.net/Neuron%20Lab/NeuronReferences/Neuroscience%20-%20Bear.pdf
   </div>
   </details>
 </h6>
